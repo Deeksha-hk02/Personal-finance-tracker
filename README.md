@@ -17,7 +17,9 @@ A React.js-based Personal Finance Tracker that helps users manage income and exp
 ## How to Run
 
 1. Install dependencies
+   
    npm install
 
-2. Start the application
+3. Start the application
+   
    npm start
